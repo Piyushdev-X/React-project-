@@ -302,8 +302,8 @@ Built with chai ☕ and deadlines 📅 by students, for students.
 
 | Role | Name |
 |---|---|
-| Founder & Lead Dev | *your name here* |
-| Co-founder | *your friend's name* |
+| Founder & Lead Dev | *Piyush* |
+| Co-founder | *Khyati* |
 
 ---
 
